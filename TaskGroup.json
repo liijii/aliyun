@@ -10,8 +10,10 @@
 	"0 6-18/6 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_fruit.js, tag=东东农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png",
 	"30 8 * * * https://raw.githubusercontent.com/yangchong99/QuantumultX/main/script/sfsy.js, tag=顺丰速运, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/sfsy.png",
 	"1 0,9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/Semporia/Scripts/main/API-Icon/JD_DailyBonus.png",
-	"5 8 * * * 	https://gist.githubusercontent.com/Sliverkiss/f23891426d8b5a7603851d0496e94ab3/raw/ysfV2.js, tag=云闪付签到, img-url=https://raw.githubusercontent.com/lcmigg/Surge/master/img/unionpay.png",
-	"5 8 * * * 	https://raw.githubusercontent.com/TY1ung/QuantumultX/04e8b55c2ca4d967eb1da8000a5703a768140045/Scripts/UnionPay.js, tag=云闪付签到 , img-url=https://raw.githubusercontent.com/lcmigg/Surge/master/img/unionpay.png",
-	"5 8 * * * 	https://raw.githubusercontent.com/yidasanqian/script/master/check_in/unipay/unipay.js, tag=云闪付签到, img-url=https://raw.githubusercontent.com/lcmigg/Surge/master/img/unionpay.png"
+	"5 8 * * * https://raw.githubusercontent.com/TY1ung/QuantumultX/04e8b55c2ca4d967eb1da8000a5703a768140045/Scripts/UnionPay.js, tag=云闪付签到 , img-url=https://raw.githubusercontent.com/lcmigg/Surge/master/img/unionpay.png",
+	"5 8 * * * https://raw.githubusercontent.com/yidasanqian/script/master/check_in/unipay/unipay.js, tag=云闪付🎁签到, img-url=https://raw.githubusercontent.com/lcmigg/Surge/master/img/unionpay.png",
+	"0 9 * * * https://raw.githubusercontent.com/yyn618/QuantumultX-Script/main/Task/JD/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
+	"5 8 * * * https://gist.githubusercontent.com/Sliverkiss/f23891426d8b5a7603851d0496e94ab3/raw/ysfV2.js, tag=云闪付签到V2 , img-url=https://raw.githubusercontent.com/lcmigg/Surge/master/img/unionpay.png",
+	"0 8 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/github.js, tag=GitHub, img-url=https://raw.githubusercontent.com/Orz-3/task/master/github.png"
   ]
 }
