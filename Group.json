@@ -4,7 +4,7 @@
   "task": [
     {
       "config": "30 10 * * * https://gist.githubusercontent.com/Sliverkiss/8b4f5487e0f28786c7dec9c7484dcd5e/raw/teaMilk.js, tag=奶茶多合一, img-url=https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/teaMilk.png, enabled=true",
-      "addons": "https://gist.githubusercontent.com/Sliverkiss/8b4f5487e0f28786c7dec9c7484dcd5e/raw/teaMilk.js, tag=奶茶多合一获取token, opt-parser=true"
+      "addons": "https://gist.githubusercontent.com/Sliverkiss/8b4f5487e0f28786c7dec9c7484dcd5e/raw/teaMilk.js, tag=奶茶多合一获取token"
     },
     {
       "config": "30 8 * * * https://gist.githubusercontent.com/Sliverkiss/585daf69a0a6c7243db8993f5394a124/raw/youzan.js, tag=Sakura Checkbox, img-url=https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Checkbox.png, enabled=true",
@@ -162,7 +162,7 @@
     },
     {
 	"config": "8 0 * * * https://gist.githubusercontent.com/Sliverkiss/6d15658e313eee254a55d2b97933587c/raw/jsb.js, tag=杰士邦安心福利社, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/jsb.png, enabled=true",
-      "addons": "https://gist.githubusercontent.com/Sliverkiss/6d15658e313eee254a55d2b97933587c/raw/jsb.js, tag=杰士邦安心福利社获取token, opt-parser=true"
+      "addons": "https://gist.githubusercontent.com/Sliverkiss/6d15658e313eee254a55d2b97933587c/raw/jsb.js, tag=杰士邦安心福利社获取token"
     },
     {
       "config": "8 0 * * * https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/pp_parking.js, tag=PP停车, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/pp_parking.png, enabled=true",
@@ -184,32 +184,32 @@
     },
     {
       "config": "30 10 * * * https://gist.githubusercontent.com/Sliverkiss/4d0e9572b99530b7cb0e7298622aa2a9/raw/naixue.js, tag=奈雪的茶, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/naixue.png, enabled=true",
-      "addons": "https://gist.githubusercontent.com/Sliverkiss/4d0e9572b99530b7cb0e7298622aa2a9/raw/naixue.js, tag=奈雪的茶获取token, opt-parser=true"
+      "addons": "https://gist.githubusercontent.com/Sliverkiss/4d0e9572b99530b7cb0e7298622aa2a9/raw/naixue.js, tag=奈雪的茶获取token"
     },
     {
       "config": "0 6 * * * https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/RedBull/RedBull.js, tag=红牛会员俱乐部, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/redbull.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/RedBull/RedBull.sgmodule, tag=红牛会员俱乐部获取token, opt-parser=true"
+      "addons": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/RedBull/RedBull.sgmodule, tag=红牛会员俱乐部获取token"
     },
     {
       "config": "30 8 * * * https://raw.githubusercontent.com/yangchong99/QuantumultX/main/script/sfsy.js, tag=顺丰速运, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/sfsy.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/cookie/get_cookie.js, tag=顺丰速运获取token, opt-parser=true"
+      "addons": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/cookie/get_cookie.js, tag=顺丰速运获取token"
     },
 	{
       "config": "1 0,9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到 , img-url=https://raw.githubusercontent.com/Semporia/Scripts/main/API-Icon/JD_DailyBonus.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=获取京东Cookie, opt-parser=true"
+      "addons": "https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=获取京东Cookie"
 
 	},
 	{
       "config": "5 8 * * * 	https://gist.githubusercontent.com/Sliverkiss/f23891426d8b5a7603851d0496e94ab3/raw/ysfV2.js, tag=云闪付签到V2 , img-url=https://raw.githubusercontent.com/lcmigg/Surge/master/img/unionpay.png, enabled=true",
-      "addons": "https://gist.githubusercontent.com/Sliverkiss/f23891426d8b5a7603851d0496e94ab3/raw/ysfV2.js, tag=获取云闪付Cookie, opt-parser=true"
+      "addons": "https://gist.githubusercontent.com/Sliverkiss/f23891426d8b5a7603851d0496e94ab3/raw/ysfV2.js, tag=获取云闪付Cookie"
 	},
 	{
       "config": "5 8 * * * 	https://raw.githubusercontent.com/TY1ung/QuantumultX/04e8b55c2ca4d967eb1da8000a5703a768140045/Scripts/UnionPay.js, tag=云闪付签到 , img-url=https://raw.githubusercontent.com/lcmigg/Surge/master/img/unionpay.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/yangwudong/Quantumult-X/main/Scripts/unipay.js, tag=获取云闪付Cookie, opt-parser=true"
+      "addons": "https://raw.githubusercontent.com/yangwudong/Quantumult-X/main/Scripts/unipay.js, tag=获取云闪付Cookie"
 	},
 	{
       "config": "5 8 * * * 	https://raw.githubusercontent.com/yidasanqian/script/master/check_in/unipay/unipay.js, tag=云闪付🎁签到 , img-url=https://raw.githubusercontent.com/lcmigg/Surge/master/img/unionpay.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/yangwudong/Quantumult-X/main/Scripts/unipay.js, tag=获取云闪付Cookie, opt-parser=true"
+      "addons": "https://raw.githubusercontent.com/yangwudong/Quantumult-X/main/Scripts/unipay.js, tag=获取云闪付Cookie"
 	},	
 	{
       "config": "8,22 * * * https://raw.githubusercontent.com/yyn618/QuantumultX-Script/master/Task/JD/jd_bean_change.js, tag=京豆变动通知, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_shop.png, enabled=true"
@@ -218,7 +218,7 @@
       "config": "https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_bean_change.js, tag=京东资产变动通知, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_shop.png, enabled=true"
 	},
 	{
-      "config": "0 8 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/github.js, tag=GitHub, img-url=https://raw.githubusercontent.com/Orz-3/task/master/github.png,enabled=true"
+      "config": "0 8 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/github.js, tag=GitHub, img-url=https://raw.githubusercontent.com/Orz-3/task/master/github.png, enabled=true"
 	},
 	{
       "config": "29 9 * * * https://raw.githubusercontent.com/wangzhao1989/Blog/Surge/JD_price_detect.js, tag=京东价格监控, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_shop.png, enabled=true"
@@ -229,32 +229,32 @@
 	{
       "config": "0-23/1 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/testflight.js, tag=testflight公测监控, img-url=https://raw.githubusercontent.com/Orz-3/task/master/testflight.png, enabled=false"
 	},	
-    {
+	{
       "config": "3 0 * * * https://raw.githubusercontent.com/wf021325/qx/master/task/csvw.js, tag=上汽大众, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/sqdz.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/wf021325/qx/master/task/csvw.js, tag=上汽大众获取token, opt-parser=true"
-    }, {
+      "addons": "https://raw.githubusercontent.com/wf021325/qx/master/task/csvw.js, tag=上汽大众获取token"
+    	}, {
       "config": "7 0 * * * https://raw.githubusercontent.com/wf021325/qx/master/task/geely.js, tag=吉利汽车, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/geely.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/wf021325/qx/master/task/geely.js, tag=吉利汽车获取token, opt-parser=true"
-    },
-    {
+      "addons": "https://raw.githubusercontent.com/wf021325/qx/master/task/geely.js, tag=吉利汽车获取token"
+    	},
+    	{
       "config": "8 0 * * * https://raw.githubusercontent.com/wf021325/qx/master/task/zeekr.js, tag=极氪汽车, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/zeekr.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/wf021325/qx/master/task/zeekr.js, tag=极氪汽车获取token, opt-parser=true"
-    },
-    {
+      "addons": "https://raw.githubusercontent.com/wf021325/qx/master/task/zeekr.js, tag=极氪汽车获取token"
+   	},
+    	{
       "config": "9 0 * * * https://raw.githubusercontent.com/wf021325/qx/main/task/volvo.js, tag=沃尔沃汽车, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/volvo.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/wf021325/qx/main/task/volvo.js, tag=沃尔沃汽车获取token, opt-parser=true"
-    },
-    {
+      "addons": "https://raw.githubusercontent.com/wf021325/qx/main/task/volvo.js, tag=沃尔沃汽车获取token"
+    	},
+    	{
       "config": "10 0 * * * https://raw.githubusercontent.com/wf021325/qx/master/task/ffqc.js, tag=非凡汽车, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/ffqc.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/wf021325/qx/master/task/ffqc.js, tag=非凡汽车获取token, opt-parser=true"
-    },
-    {
+      "addons": "https://raw.githubusercontent.com/wf021325/qx/master/task/ffqc.js, tag=非凡汽车获取token"
+    	},
+    	{
       "config": "5 7 * * * https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/tenvideo.js, tag=腾讯视频签到, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/tenvideo.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/tenvideo.js, tag=腾讯视频获取token, opt-parser=true"
-    },
-    {
+      "addons": "https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/tenvideo.js, tag=腾讯视频获取token"
+   	},
+    	{
       "config": "33 6,16,23 * * * https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/GQFT/GQFT.js, tag=广汽丰田, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/gqft.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/GQFT/GQFT.sgmodule, tag=广汽丰田获取token, opt-parser=true"
+      "addons": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/GQFT/GQFT.sgmodule, tag=广汽丰田获取token"
     }
   ]
 }
