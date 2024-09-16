@@ -12,10 +12,10 @@
     【 QX 1.0.10+ 脚本配置 】 
     *************************
     [task_local]
-    31 8 * * * https://raw.githubusercontent.com/yidasanqian/script/master/check_in/unipay/unipay.js, tag=云闪付签到
+    31 8 * * * unipay.js, tag=云闪付签到
 
     [rewrite_local]
-    https:\/\/youhui\.95516\.com/newsign/api/shop_items/list url script-request-header https://raw.githubusercontent.com/yidasanqian/script/master/check_in/unipay/unipay.js,tag=云闪付签到cookie
+    https:\/\/youhui\.95516\.com/newsign/api/shop_items/list url script-request-header unipay.js,tag=云闪付签到cookie
     
     [MITM]
     hostname = youhui.95516.com
